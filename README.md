@@ -20,16 +20,12 @@ Hi, I'm [Aravind N](https://aravinds.life). A Software Engineer with a flair for
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; Open to work on Backend Projects
 - 🎯 &nbsp; Focussing mainly on Web Application Development
 - 🚀 &nbsp; Great with Java, Kotlin and Node.js
 - 👾 &nbsp; Focus on code quality, readability and maintainability
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/aravind-opsverse)
 - 💬 &nbsp; Connect with me on Twitter [@Aravind N](https://twitter.com/arvindnswamy_n)
 - 📮 &nbsp; Mail me here: aravind@opsverse.com
-<br/>
-<br/>
-<br/>
 
 <div align="center">
 
