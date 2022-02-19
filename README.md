@@ -33,6 +33,4 @@ Hi, I'm [Aravind N](https://aravinds.life). A Software Engineer with a flair for
 
 <div align="center">
 
-#### If you like any of my Projects or if it is useful in any way, show some love by starring the repositories!
-
 </div>
