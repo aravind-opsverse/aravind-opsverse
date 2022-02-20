@@ -18,7 +18,8 @@ Hi, I'm [Aravind N](https://aravinds.life). A Software Engineer with a flair for
 
   <img align="right" alt="GIF" src="./assets/coding.svg" width="400" height="220" />
 
-### Talking about Personal Stuffs:
+<!-- ### Talking about Personal Stuffs: -->
+## 👨🏻‍💻 &nbsp;About Me
 
 - 🎯 &nbsp; Focussing mainly on Web Application Development
 - 🚀 &nbsp; Great with Java, Kotlin and Node.js
