@@ -25,7 +25,7 @@ Hi, I'm [Aravind N](https://aravinds.life). A Software Engineer with a flair for
 - 👾 &nbsp; Focus on code quality, readability and maintainability
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/aravind-opsverse)
 - 💬 &nbsp; Connect with me on Twitter [@Aravind N](https://twitter.com/arvindnswamy_n)
-- 📮 &nbsp; Mail me here: aravind@opsverse.com
+- 📮 &nbsp; Mail me here: aravind@opsverse.io
 
 <div align="center">
 
