@@ -22,7 +22,7 @@ Hi, I'm [Aravind N](https://aravinds.life). A Software Engineer with a flair for
 ### 👨🏻‍💻 &nbsp;About Me 
 
 - 🎯 &nbsp; Focussing mainly on Web Application Development
-- 🚀 &nbsp; Great with Java, Kotlin and Node.js
+- 🚀 &nbsp; Great with Java, Kotlin and Node.js 
 - 👾 &nbsp; Focus on code quality, readability and maintainability
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/aravind-opsverse)
 - 💬 &nbsp; Connect with me on Twitter [@Aravind N](https://twitter.com/arvindnswamy_n)
