@@ -1,7 +1,7 @@
 #### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 <br/>
 <a href="https://aravinds.life">
-  <img align="left" alt="Aravind's Portfolio" width="30px" src="./assets/my-emoji.png" /> 
+  <img align="left" alt="Aravind's Portfolio" width="30px" src="./assets/my-emoji.png" />
 </a>
 <a href="https://twitter.com/arvindnswamy_n">
   <img align="left" alt="Aravind's Twitter" width="30px" src="./assets/twitter.png" />
