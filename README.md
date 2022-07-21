@@ -7,7 +7,7 @@
   <img align="left" alt="Aravind's Twitter" width="30px" src="./assets/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/aravind-n-753b41112/">
-  <img align="left" alt="Aravind's LinkedIn" width="30px" src="./assets/linkedin.png" />
+  <img align="left" alt="Aravind's LinkedIn" width="30px" src="./assets/linkedin.png" /> 
 </a>
 
 ![]()
